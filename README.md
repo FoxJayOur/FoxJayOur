@@ -1,24 +1,22 @@
 <div id="header" align="center">
   <img src="starwars.gif" width="100"/>
 </div>
-
 <div align="center">
-  Hey Foxterz! ⚡
+  Hey Foxterz! ⚡ <br>
 </div>
 
+---
 
+<div align="center">
+  <img src="rigby.gif" width="400" padding="20"/>
+</div>
 
-<!--
-**FoxJayOur/FoxJayOur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### - 🥖 I'm a Computer Science student that works to be a Full Stack Developer
+##### - 🔭 I’m currently working on uploading my files here and creating the form builder <3
+##### - 🌱 I’m currently mastering python
+##### - 💬 Ask me about any programming topics!
+##### - ⚡ Fun fact: Isa akong Hatdog
