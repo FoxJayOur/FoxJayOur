@@ -15,9 +15,9 @@
 
 ### :woman_technologist: About Me :
 
-##### - 🥖 I'm a Computer Science student that works to be a Full Stack Developer
-##### - 🔭 I’m currently working on uploading my files here and creating the form builder <3
-##### - 🌱 I’m currently mastering python and exploring computer vision
+##### - 🥖 I'm a Computer Science graduate that works to be a Full Stack Developer
+##### - 🔭 I’m currently working on uploading my files here <3
+##### - 🌱 I’m currently practicing front-end frameworks
 ##### - 💬 Ask me about any programming topics!
 ##### - ⚡ Fun fact: Isa akong Hatdog
 
